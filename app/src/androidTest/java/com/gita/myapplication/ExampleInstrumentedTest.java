@@ -1,4 +1,4 @@
-package com.gita.vsgacatatanharian;
+package com.gita.myapplication;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.gita.vsgacatatanharian", appContext.getPackageName());
+        assertEquals("com.gita.myapplication", appContext.getPackageName());
     }
 }

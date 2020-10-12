@@ -1,4 +1,4 @@
-package com.gita.vsgacatatanharian;
+package com.gita.myapplication;
 
 import org.junit.Test;
 

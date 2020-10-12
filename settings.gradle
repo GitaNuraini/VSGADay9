@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "VSGA Catatan Harian"
+rootProject.name = "Catatan Harian"
